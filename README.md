@@ -1,6 +1,6 @@
 # Hi! I'm Haria 👋
 
-Backend developer at Adobe, based in Bengaluru.
+Backend developer at Adobe.
 I enjoy building APIs, working with distributed systems mainly because of the dopamine hit when something meaningful is built or a bug gets squashed 😀
 
 Currently open to backend and AI platform roles worldwide
