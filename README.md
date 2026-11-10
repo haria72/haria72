@@ -1,9 +1,9 @@
 # Hi! I'm Haria 👋
 
-Backend developer at Adobe.
+Software Engineer at Nike.
 I enjoy building APIs, working with distributed systems mainly because of the dopamine hit when something meaningful is built or a bug gets squashed 😀
 
-Currently open to backend and AI platform roles worldwide
+Currently open to cloud, AI and backend roles worldwide
 
 ## Tech I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
